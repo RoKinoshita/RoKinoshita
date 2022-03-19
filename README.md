@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" height="100%" src="https://c.tenor.com/UiX3cAoTV8YAAAAd/retrowave.gif" />
+<img width="100%" height="100%" src="https://i.pinimg.com/originals/f9/df/f1/f9dff1de5ec481b7a2c4dfa24d8479c9.gif" />
 
 </div>
 <div align="center">
