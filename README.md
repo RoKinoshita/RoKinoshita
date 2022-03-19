@@ -11,7 +11,7 @@
 </div>
 
 
-##   ᲼᲼᲼ ᲼᲼᲼ ᲼᲼᲼ ᲼᲼᲼ ᲼᲼᲼ ᲼᲼᲼Sobre mim
+##   ᲼᲼᲼ ᲼᲼᲼ ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼ ᲼᲼᲼ ᲼᲼᲼ ᲼᲼᲼Sobre mim
 <br>
 <p centralize="center">
  ᲼᲼᲼• Olá meu nome é Rodrigo Kendy Kinoshita, Estudante de Análise e Desenvolvimento de Sistema na instituição Fatec<strong> (Faculdade de Tecnologia Estadual).</strong> 3° semestre.<br />
