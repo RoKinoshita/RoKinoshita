@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="70%" height="70%" src="https://i.pinimg.com/originals/f9/df/f1/f9dff1de5ec481b7a2c4dfa24d8479c9.gif" />
+<img width="70%" height="70%" src="https://giffiles.alphacoders.com/211/211099.gif" />
 
 </div>
 <div align="center">
@@ -63,7 +63,5 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RoKinoshita&hide=css,java,html&theme=tokyonight">
 </p>
 <div align="center">
-
-<img width="70%" height="70%" src="https://giffiles.alphacoders.com/211/211099.gif" />
 
 </div>
